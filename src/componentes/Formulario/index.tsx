@@ -36,13 +36,14 @@ const Formulario = () => {
                 </form> 
             </div>
 
-            <div className={style.cronometro}>
-                <Cronometro/>
-            </div>
-
             <div className={style.lista}>
                 <Lista/>
             </div> 
+
+            <div className={style.cronometro}>
+                <Cronometro/>
+            </div>
+          
         </main>   
     )
 
