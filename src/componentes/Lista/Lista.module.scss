@@ -63,7 +63,7 @@
 @media screen and (min-width: 320px) and (max-width: 660px){
 
 .container_lista{
-    width: 70%;
+    width: 100%;
     h2{
         font-size: 1rem;
     }
@@ -71,9 +71,9 @@
         width: 100%;
         li{
             width: 100%;
-            height: 25px;
+            height: 30%;
             p{
-                font-size: 0.7rem;
+                font-size: 1rem;
                 margin-right: 5px;
             }
         }
