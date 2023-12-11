@@ -1,4 +1,4 @@
-<h1>To Do List em React [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)</h1>
+<h1>To Do List em React</h1> [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 <h2>Finalidade</h2>
 
