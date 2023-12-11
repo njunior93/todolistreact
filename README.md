@@ -1,4 +1,4 @@
-<h1>To Do List em React (https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)</h1>
+<h1>To Do List em React (https://skillicons.dev/icons?i=js,html,css,wasm)</h1>
 
 <h2>Finalidade</h2>
 
