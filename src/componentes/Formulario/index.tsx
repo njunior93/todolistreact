@@ -28,7 +28,7 @@ const Formulario = () => {
                 <form  onSubmit={adicionarTarefa}>  
                     <div>
                         <label htmlFor='tarefa'>Adicione uma tarefa</label>
-                        <Input disabled = {desativado} id="tarefa" value={tarefa} onChange={valor => setTarefa(valor.target.value)} placeholder='Digite aqui' required maxLength={12}/>
+                        <Input disabled = {desativado} id="tarefa" value={tarefa} onChange={valor => setTarefa(valor.target.value)} placeholder='Digite aqui' required maxLength={15}/>
                         <label htmlFor="tempo">Tempo</label>
                         <Input disabled = {desativado} type="time" step="1" name='tempo' id='tempo' value={tempo} onChange={valor => setTempo(valor.target.value)} min="00:00:01" max="01:30:00" required/>
                         <Botao disabled = {desativado} botao="Adicionar" type="submit"/>
